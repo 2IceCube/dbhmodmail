@@ -1,0 +1,1 @@
+Du musst zu erst den Ordner better-sqlite3 in node_modules löschen! Danach startest du den Bot. Es kann etwas dauern bis er sich vollständig installiert hat.
