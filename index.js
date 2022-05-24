@@ -12,10 +12,10 @@ const client = new Discord.Client({
     presence: {
       activity: {
         name: `DM für Support 🔥 | ${config.prefix}help`, 
-        type: "PLAYING", 
-        url: "https://twitch.tv/#"
+        type: "STREAMING", 
+        url: "https://twitch.tv/2icecube"
       },
-      status: "online"
+      status: "idle"
     },
     restTimeOffset: 0,
     partials: ["CHANNEL", "MESSAGE", "REACTION"],

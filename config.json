@@ -1,9 +1,9 @@
 {
-    "token": "Token-hier",
-    "prefix": "m!",
-    "serverid": "server-id",
-    "botstatus": "DM für Support 🔥",
+    "token": "BotToken",
+    "prefix": "DeinPrefix",
+    "serverid": "ServerId",
+    "botstatus": "We ❤️ DisBoHost.de",
     "statustyp": "PLAYING",
-    "kategorie": "kategorie-id",
+    "kategorie": "KategorieId",
     "nachricht": "Beschreibe deine Frage/ dein Problem und bekomme Hilfe!"
 }
