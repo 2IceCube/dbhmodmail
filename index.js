@@ -15,7 +15,7 @@ const client = new Discord.Client({
         type: "STREAMING", 
         url: "https://twitch.tv/2icecube"
       },
-      status: "idle"
+      status: "online"
     },
     restTimeOffset: 0,
     partials: ["CHANNEL", "MESSAGE", "REACTION"],
